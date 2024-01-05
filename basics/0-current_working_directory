@@ -1,2 +1,6 @@
 #!/bin/bash
-pwd
+# Test bash command
+print absolute path {
+    pwd
+    }
+
