@@ -1,1 +1,1 @@
-pwd
+scripts and answers
