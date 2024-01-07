@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -name "*.html" -exec cp --parents {} ../.. 
+find ./ -type f -name "*.html" -exec cp -r -u . ..
