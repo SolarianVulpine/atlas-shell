@@ -1,0 +1,1 @@
+Learning about redirection commands in the way of standard input, output, and error
