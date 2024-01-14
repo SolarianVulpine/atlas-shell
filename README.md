@@ -1,1 +1,1 @@
-learning to utilize scripts and shells
+Shell Initialization files, variables, Expansions, Shell Arithmetic, and the alias command,
