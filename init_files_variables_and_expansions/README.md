@@ -13,3 +13,4 @@ Shell Initialization files, variables, Expansions, Shell Arithmetic, and the ali
 11. There are 10 types of people in the world -- Those who understand binary, and those who dont - Write a script taht converts a number from base 2 to base 10
 12. Combination - Create a script that prints all possible combinations of two letters, except oo
 13. Floats - Write a script that prints a number with two decumal places, followed by a new line.
+14. Decimal to Hexadecimal - Write a script that converts a number from base 10 to base 16
