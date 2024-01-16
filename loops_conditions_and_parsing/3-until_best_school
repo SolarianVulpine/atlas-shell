@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# displays "Best School" 10 times using the until loop format
+counter=10
+until [ $counter -lt 1 ]; do
+	echo "Best School"
+	let counter=1
+done
