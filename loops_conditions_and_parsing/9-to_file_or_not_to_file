@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# script that gives you info on school
+file="school"
+
+#if file exists the school file exists
+#if file does not exist
