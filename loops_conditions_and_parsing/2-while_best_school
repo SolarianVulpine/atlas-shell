@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # displays best school 10 times using while loop format
-counter=0
-while [ $counter -lt 10 ]; do
+cont=1
+while [ $cont -le 10 ]; 
+do
 	echo "Best School"
-	let counter=counter+1
+	let cont=cont+1
 done
